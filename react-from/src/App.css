@@ -1,0 +1,66 @@
+.disenioForm{
+  padding: 1rem;
+  display: block;
+  width: 100%;
+  background-color: #FFFFFF;
+  border: 1px solid #e1e1e1;;
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+}
+
+.tituloC{
+  font-weight: bold;
+  text-transform: uppercase;
+  display: block;
+}
+
+.legendTitulo{
+  font-size: 2rem;
+  color: #333333;
+
+  box-sizing: border-box; /* 1 */
+  color: inherit; /* 2 */
+  display: table; /* 1 */
+  max-width: 100%; /* 1 */
+  padding: 0; /* 3 */
+  white-space: normal;
+}
+
+.contenedor{
+  width: 95%;
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
+.seccion {
+  margin-top: 5rem / 2;
+  margin-bottom: 5rem / 2;
+}
+
+.encabezadoCreate{
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 2rem;
+  font-weight: bold;
+}
+
+.separar{
+  margin-top: 2rem;
+}
+
+.btnNuevo{
+  background-color: #0891B2;
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #FFFFFF;
+  font-size: 1.6rem;
+  font-weight: 700;
+  border: none;
+  transition-property: background-color;
+  transition-duration: .3s;
+  text-align: center;
+  display: block;
+  width: 30%;
+
+}
